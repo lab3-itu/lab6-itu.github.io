@@ -1,12 +1,6 @@
 # zar.github.io
 <html>
-<head>
-    <meta cahrset="utf-8">
-</head>
-<body>
-    <h1><strong>Миний тухай мэдэхийг хүссэн зүйлд дээрээ дарж орно уу. 
-    
-    <p><a href="https://munkhtulga0826.github.io/tuka-is-page/"><em>Миний хобби</em></a></p>
-    <p><a href="https://munkhtulga0826.github.io/page2/"><em>Гэр бүл</em></a></p>
-    <p><a href="https://munkhtulga0826.github.io/page3/"><em>Миний тухай</em></a></p>
-    <p><a href="https://munkhtulga0826.github.io/page4/"><em>Холбогдох мэдээлэл</em></a></p>
+<header>
+  <img src= "zar.png" alt = "zara logo" />
+  <h4>Өөрийн хүссэн зүйлээ эндээс олроорой.<h4>
+</header>  
