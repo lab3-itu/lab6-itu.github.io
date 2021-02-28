@@ -2,7 +2,7 @@
 <html>
 <header>
   <img src= "zar.html" alt = "zara logo" />
-  <p>                                                                              Зар нэмэх </p>              
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Зар нэмэх </p>              
   <h4>Өөрийн хүссэн зүйлээ эндээс олроорой.<h4>
 </header>
 <body>
