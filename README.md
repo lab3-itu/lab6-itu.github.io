@@ -1,13 +1,9 @@
 # Автомашины зарийн сайт
 <html>
-<header>
-  <img src="https://user-images.githubusercontent.com/79790495/109424011-dec41f00-7a1c-11eb-9486-649c285be086.jpg" width="500" height="150" alt = "zara logo"/>
-  <p><label>Хайлт:
-  <input type = "text" id ="mark"
-           placeholder="Машины төрөл"/> (Машины төрөл) 
-    </label></p> 
+<head>
+  <img src="https://user-images.githubusercontent.com/79790495/109424011-dec41f00-7a1c-11eb-9486-649c285be086.jpg" width="500" height="150" alt = "zara logo"/> 
   <h4>Өөрийн хүссэн зүйлээ эндээс олроорой.<h4>
-</header>
+</head>
 <body>
   <p><a href="https://lab3-itu.github.io/Medeelel/"><img src="https://user-images.githubusercontent.com/79790495/109425268-72e4b500-7a22-11eb-817c-dcf08e555127.jpg" width="500" heighth="80" alt= "prius 20"></a></p>
   <p><a href="https://lab3-itu.github.io/Medeelel/"> <strong>Хямдхан өнгөлөг Приус20 машин байна.</strong></a></p>
